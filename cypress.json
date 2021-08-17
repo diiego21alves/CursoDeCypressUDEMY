@@ -1,0 +1,8 @@
+{
+    "baseUrl": "https://barrigareact.wcaquino.me/", 
+    "env": {
+        "user": "diiego21alves@gmail.com", 
+        "passwd": "SENHA!"
+    },
+     "baseUrl2" : "http://barrigarest.wcaquino.me"
+}
